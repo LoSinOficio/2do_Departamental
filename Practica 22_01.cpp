@@ -5,7 +5,7 @@
 using namespace std;
 
 // Estructura auto-referenciada de dominio
-struct Persona {
+struct Persona1 {
     string nombre;
     int edad;
     Persona* siguientePersona; 
