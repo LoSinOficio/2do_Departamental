@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+
 using namespace std;
 
 // Estructura auto-referenciada de dominio
