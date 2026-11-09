@@ -10,6 +10,7 @@ private:
     int datos[MAX];
     int frente, cantidad;
 
+    
 public:
     ColaEstatica() : frente(0), cantidad(0) {}
 
