@@ -15,6 +15,7 @@ private:
     Nodo* frente;
     Nodo* final;
 
+    
 public:
     ColaDinamica() : frente(nullptr), final(nullptr) {}
 
