@@ -1,11 +1,10 @@
 #include <iostream>
 #include <string>
 
-
 using namespace std;
 
 // Estructura auto-referenciada de dominio
-struct Persona1 {
+struct Persona {
     string nombre;
     int edad;
     Persona* siguientePersona; 
