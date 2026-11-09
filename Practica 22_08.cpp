@@ -14,6 +14,7 @@ public:
         cout << "Elemento " << valor << " apilado en la cima.\n";
     }
 
+    
     void desapilar() {
         if (!pila.empty()) {
             pila.pop();
