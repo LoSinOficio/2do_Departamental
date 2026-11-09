@@ -10,6 +10,7 @@ private:
     int datos[MAX];
     int cantidad;
 
+    
 public:
     ListaEstatica() : cantidad(0) {}
 
