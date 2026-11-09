@@ -14,6 +14,7 @@ private:
 
     Nodo* cabeza;
 
+    
 public:
     ListaDinamica() : cabeza(nullptr) {}
 
