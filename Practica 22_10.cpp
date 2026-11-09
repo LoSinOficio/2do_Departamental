@@ -15,6 +15,7 @@ public:
         cout << "Elemento " << valor << " agregado al final.\n";
     }
 
+    
     void agregarAlFrente(int valor) {
         elementos.push_front(valor);
         cout << "Elemento " << valor << " agregado al frente.\n";
