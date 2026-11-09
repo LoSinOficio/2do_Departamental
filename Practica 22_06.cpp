@@ -14,6 +14,7 @@ private:
     
     Nodo* tope;
 
+    
 public:
     PilaDinamica() : tope(nullptr) {}
     
