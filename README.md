@@ -6,8 +6,7 @@
 | --- | --- |
 | Institución | Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas |
 | Asignatura | Abstracción y Uso de Datos |
-| Trabajo | Segundo departamental |
-| Periodo | Segundo parcial |
+| Periodo | Segundo Departamental |
 | Equipo | Los Sin Oficio |
 | Integrantes | Cruz Montalvo Erick Itzmin |
 |  | Murillo Sánchez Fátima Mariana |
