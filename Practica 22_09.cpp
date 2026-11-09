@@ -14,6 +14,7 @@ public:
         cout << "Elemento " << valor << " agregado a la cola.\n";
     }
 
+    
     bool estaVacia() const {
         return cola.empty();
     }
