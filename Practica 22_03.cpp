@@ -10,6 +10,7 @@ private:
     int datos[MAX];
     int tope;
 
+    
 public:
     PilaEstatica() : tope(-1) {}
 
