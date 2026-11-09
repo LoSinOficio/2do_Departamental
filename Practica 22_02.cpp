@@ -7,6 +7,7 @@ using namespace std;
 class CuentaBancaria {
 private:
     string titular;
+
     double saldo;
 
 public:
